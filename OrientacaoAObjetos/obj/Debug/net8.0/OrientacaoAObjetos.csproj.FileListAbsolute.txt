@@ -1,0 +1,14 @@
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\bin\Debug\net8.0\OrientacaoAObjetos.exe
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\bin\Debug\net8.0\OrientacaoAObjetos.deps.json
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\bin\Debug\net8.0\OrientacaoAObjetos.runtimeconfig.json
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\bin\Debug\net8.0\OrientacaoAObjetos.dll
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\bin\Debug\net8.0\OrientacaoAObjetos.pdb
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.AssemblyInfoInputs.cache
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.AssemblyInfo.cs
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.csproj.CoreCompileInputs.cache
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.dll
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\refint\OrientacaoAObjetos.dll
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.pdb
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.genruntimeconfig.cache
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\ref\OrientacaoAObjetos.dll
