@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Modulo10_Generics_Set_Dictionary\Aula6_Exercicio\NovaPasta\" />
+  </ItemGroup>
+
 </Project>

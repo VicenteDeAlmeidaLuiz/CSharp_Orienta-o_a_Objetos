@@ -12,3 +12,4 @@ C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\refint\Orientacao
 C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.pdb
 C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.genruntimeconfig.cache
 C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\ref\OrientacaoAObjetos.dll
+C:\CSharpOrientadoAObjetos\OrientacaoAObjetos\obj\Debug\net8.0\OrientacaoAObjetos.sourcelink.json
